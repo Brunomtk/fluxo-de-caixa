@@ -34,19 +34,25 @@ O sistema de fluxo de caixa automatizado será desenvolvido com base em tecnolog
 
 ## Caixa
 
-![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/69182733-cfcc-4383-81e0-df3e017b799f)
+![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/ab93b5cf-4ec8-4da5-b966-574e1db80024)
+
 
 
 ## Graficos
 
-![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/31293862-ce36-4c5d-a794-78b4e322cd81)
+![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/8efe9c31-387c-4264-b410-354acea822fd)
+
 
 
 
 ## Estoque
 
-![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/46068296-7b1c-4d43-80d0-3401baa3444b)
+![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/46b716b0-4085-4fdd-8266-0a60fc39fadf)
 
+
+## Produtos 
+
+![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/baf1ce3a-03b9-460a-901b-ac5dd38377d5)
 
 
 
