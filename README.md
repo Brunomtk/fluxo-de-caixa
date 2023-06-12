@@ -10,40 +10,43 @@
 ## Sobre o Projeto
 
 Resumo:
-Este projeto tem como objetivo o desenvolvimento de um sistema de ponto eletrônico personalizado para a empresa Conselt. O sistema será projetado para simplificar e automatizar o registro de presença e controle de horários dos funcionários, garantindo uma gestão eficiente e precisa do tempo de trabalho.
-
-Descrição do Projeto:
-O sistema de ponto eletrônico da Conselt será desenvolvido levando em consideração as necessidades específicas da empresa, oferecendo uma solução completa e integrada. O projeto será dividido nas seguintes etapas:
+O sistema de fluxo de caixa automatizado será desenvolvido com base em tecnologias avançadas, como inteligência artificial e aprendizado de máquina, a fim de fornecer análises e previsões precisas sobre a saúde financeira da empresa. O sistema será projetado para ser intuitivo e fácil de usar, permitindo que os funcionários da Conselt gerenciem de forma eficiente todas as transações financeiras diárias.
 
 
 ## Fotos do Projeto 
 
 ## Login
 
-![Login](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/d7d5177c-fc3a-4cf9-a850-28e98308607a)
+![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/4fc263c0-48da-4c1f-8d78-9d2a500e1c28)
+
 
 
 ## Cadastrar 
 
-![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/f1578b96-dd46-453d-9f1c-190c47714305)
+![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/f0165c6d-637e-4d62-8f8b-fe7c8873b552)
+
 
 
 ## Home
 
-![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/1065881d-dfe5-40fc-a73e-7cb3fea6bac8)
-
-## Contabilização
-
-![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/8ded9390-1834-492d-b27f-3760137adada)
-
-## Controle de Membros
-
-![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/799f7953-0784-47c5-ac06-6c6c18a97a7f)
+![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/8311b055-57bf-4596-be5f-6f6a22e6a69b)
 
 
-## Controle de usuarios
+## Caixa
 
-![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/d2a9adf9-3cb5-43f5-884e-66c50c9bd479)
+![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/69182733-cfcc-4383-81e0-df3e017b799f)
+
+
+## Graficos
+
+![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/31293862-ce36-4c5d-a794-78b4e322cd81)
+
+
+
+## Estoque
+
+![image](https://github.com/Brunomtk/fluxo-de-caixa/assets/88750125/46068296-7b1c-4d43-80d0-3401baa3444b)
+
 
 
 
